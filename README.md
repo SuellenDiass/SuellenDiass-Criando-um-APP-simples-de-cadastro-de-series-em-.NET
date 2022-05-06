@@ -6,7 +6,7 @@
 
 
 
-### Curso feito na Dio.me com o professore Eliézer Zarpelão - Arquiteto de software, Avanade
+### Curso feito na Dio.me com o professor Eliézer Zarpelão - Arquiteto de software, Avanade
 
 ## links úteis
 
